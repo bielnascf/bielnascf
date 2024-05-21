@@ -6,7 +6,6 @@
 - ⚽ Apaixonado pelo Botafogo-RJ (!!!!!!) 
 
 <div><br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bielnascf&show_icons=true&theme=tokyonight">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bielnascf&layout=compact&theme=tokyonight">
 </div>
 
