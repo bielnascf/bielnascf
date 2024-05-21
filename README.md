@@ -1,7 +1,7 @@
 ### 😄 Opa! Meu nome é Gabriel Nascimento, muito prazer!
 
 - 🔭 Atualmente sou estagiário Backend na Universidade Veiga de Almeida-RJ
-- 🌱 Estou aprendendo C#, ASP.NET, Javascript e ReactJs
+- 🌱 Estou aprendendo C#, ASP.NET, Javascript e NextJs
 - 👨🏽‍🎓 Aluno de Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida 
 - ⚽ Apaixonado pelo Botafogo-RJ (!!!!!!) 
 
