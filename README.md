@@ -1,7 +1,7 @@
 ### 😄 Opa! Meu nome é Gabriel Nascimento, muito prazer!
 
 - 🔭 Atualmente sou estagiário Backend na Universidade Veiga de Almeida-RJ
-- 🌱 Estou aprendendo C#, ASP.NET, Javascript e NextJs
+- 🌱 Estou aprendendo C#, ASP.NET, Typescript e NextJs
 - 👨🏽‍🎓 Aluno de Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida 
 - ⚽ Apaixonado pelo Botafogo-RJ (!!!!!!) 
 
@@ -15,6 +15,7 @@
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"/>
