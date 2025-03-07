@@ -1,6 +1,6 @@
 ### 😄 Opa! Meu nome é Gabriel Nascimento, muito prazer!
 
-- 🔭 Atualmente sou estagiário na Universidade Veiga de Almeida-RJ e utilizo bastante C# e seus frameworks!
+- 🔭 Atualmente sou Analista de Sistemas na Universidade Veiga de Almeida-RJ e utilizo bastante C# e seus frameworks!
 - 🌱 Estou aprendendo Typescript e NextJs!
 - 👨🏽‍🎓 Aluno de Análise e Desenvolvimento de Sistemas na Universidade Veiga de Almeida!
 - ⚽ Apaixonado pelo Botafogo-RJ (!!!!!!) 
